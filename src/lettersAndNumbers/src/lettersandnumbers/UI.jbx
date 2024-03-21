@@ -1,0 +1,49 @@
+[PropertyInfo]
+begin,javax.swing.JButton,false,false, , ,false,<default>
+borderLayout1,java.awt.BorderLayout,false,false, , ,false,<default>
+controlPan,javax.swing.JPanel,false,false, , ,false,<default>
+dictTxt,javax.swing.JTextArea,false,false, , ,false,<default>
+done1,javax.swing.JButton,false,false, , ,false,<default>
+done2,javax.swing.JButton,false,false, , ,false,<default>
+game,lettersandnumbers.Game,false,false, , ,false,<default>
+getNonV1,javax.swing.JButton,false,false, , ,false,<default>
+getNonV2,javax.swing.JButton,false,false, , ,false,<default>
+getV2,javax.swing.JButton,false,false, , ,false,<default>
+getVowel1,javax.swing.JButton,false,false, , ,false,<default>
+info,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel1,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel5,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel6,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel7,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel8,javax.swing.JLabel,false,false, , ,false,<default>
+JLabel9,javax.swing.JLabel,false,false, , ,false,<default>
+JScrollDict,javax.swing.JScrollPane,false,false, , ,false,<default>
+JScrollPlayer1Res,javax.swing.JScrollPane,false,false, , ,false,<default>
+JScrollPlayer2Res,javax.swing.JScrollPane,false,false, , ,false,<default>
+matchLbl,javax.swing.JLabel,false,false, , ,false,<default>
+nextMatch,javax.swing.JButton,false,false, , ,false,<default>
+northPan,javax.swing.JPanel,false,false, , ,false,<default>
+player1Answer,javax.swing.JTextField,false,false, , ,false,<default>
+player1Done,boolean,false,false, , ,false,<default>
+player1InputTxt,javax.swing.JTextField,false,false, , ,false,<default>
+player1Pan,javax.swing.JPanel,false,false, , ,false,<default>
+player1Res,javax.swing.JTextArea,false,false, , ,false,<default>
+player1Total,javax.swing.JLabel,false,false, , ,false,<default>
+player2Answer,javax.swing.JTextField,false,false, , ,false,<default>
+player2Done,boolean,false,false, , ,false,<default>
+player2InputTxt,javax.swing.JTextField,false,false, , ,false,<default>
+player2Pan,javax.swing.JPanel,false,false, , ,false,<default>
+player2Res,javax.swing.JTextArea,false,false, , ,false,<default>
+player2Total,javax.swing.JLabel,false,false, , ,false,<default>
+scores1,javax.swing.JLabel,false,false, , ,false,<default>
+timeout,long,false,false, , ,false,<default>
+timeoutThread,lettersandnumbers.TimeOutThread,false,false, , ,false,<default>
+timeoutTxt,javax.swing.JTextField,false,false, , ,false,<default>
+XYLayout1,com.borland.jbcl.layout.XYLayout,false,false, , ,false,<default>
+XYLayout2,com.borland.jbcl.layout.XYLayout,false,false, , ,false,<default>
+XYLayout3,com.borland.jbcl.layout.XYLayout,false,false, , ,false,<default>
+[IconNames]
+
+
+
+
